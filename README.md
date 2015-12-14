@@ -10,3 +10,6 @@ function init(){
 	prSetupVideo('myVideo', 1);
 }
 ```
+
+### Special Note
+In the demo above, I'm console logging the tracking so it can be viewed in the web developer.
